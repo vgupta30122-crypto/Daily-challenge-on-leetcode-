@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
