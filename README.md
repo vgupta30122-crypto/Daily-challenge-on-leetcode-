@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
 ## Stack
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
