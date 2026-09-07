@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
