@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int countPairs(vector<int>& nums, int target) {
+            int n=nums.size();
+    //   int target =0;
+    //   int idx=-1;
+    int ans =0;
+      for(int i=0;i<n;i++){
+        for(int j=i+1;j<n;j++){
+        if(nums[i]+nums[j]<target)  {
+          ans ++;
+        }
+      } 
+
+    }
+    return ans;
+    }
+        
+        
+    
+};
