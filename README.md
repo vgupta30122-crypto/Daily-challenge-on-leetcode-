@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
