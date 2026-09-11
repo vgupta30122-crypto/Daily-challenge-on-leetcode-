@@ -8,7 +8,7 @@ public:
           int i=0;
           int j=0;
           int k=0;
-          for(int i=0;i<m;i++){
+          for(int i=0;i<m;i++){   /// m is row and n is colom hai 
             for(j=0;j<n;j++){
                   ans [i][j]= original[k];
                 k++;
