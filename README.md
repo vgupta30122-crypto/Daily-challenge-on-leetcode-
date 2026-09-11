@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2917-find-the-k-or-of-an-array) |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
