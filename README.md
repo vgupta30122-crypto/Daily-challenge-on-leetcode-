@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2917-find-the-k-or-of-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
