@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
