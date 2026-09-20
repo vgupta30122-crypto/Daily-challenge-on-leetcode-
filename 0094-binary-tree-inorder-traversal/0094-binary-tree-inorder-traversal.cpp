@@ -14,16 +14,16 @@ public:
     // vector<int> inorderTraversal(TreeNode* root) {
         
     // }
-    void preorder(TreeNode* root,vector<int> & ans){
+    void inorder(TreeNode* root,vector<int> & ans){
     if(root ==NULL) return ; // base case 
    
-    preorder (root->left,ans);// left 
+    inorder (root->left,ans);// left 
      ans.push_back(root->val) ; // root 
-     preorder (root->right,ans);// right
+     inorder (root->right,ans);// right
 }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        preorder(root,ans);
+        inorder(root,ans);
         return ans;
 
         
