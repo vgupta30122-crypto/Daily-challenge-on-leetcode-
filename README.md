@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0543-diameter-of-binary-tree) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0543-diameter-of-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0543-diameter-of-binary-tree) |
