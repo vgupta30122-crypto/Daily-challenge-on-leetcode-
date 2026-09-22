@@ -1,0 +1,42 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+int levels(TreeNode* root){
+    if(root ==NULL) return 0;
+    return  1 + max(levels(root ->left),levels(root ->right));
+}
+void nthLevel(TreeNode* root ,int curr,int level,vector<int> &ans) {
+    if (root == NULL) return; // base case 
+    if(curr == level){
+     ans[curr-1]=root->val; // root 
+        return ;
+      }
+      
+        nthLevel(root->left,curr+1,level,ans); // left
+         nthLevel(root->right ,curr+1,level,ans);// right  
+
+}
+   void levelOrder(TreeNode* root,vector<int> &ans){
+    int n = ans.size();
+    for(int i=1;i<=n;i++){
+        nthLevel(root,1,i,ans);
+        cout<<"\n";
+    }
+   }
+
+    vector<int> rightSideView(TreeNode* root) {
+         vector<int> ans(levels(root),0);
+         levelOrder(root, ans);
+         return ans;
+    }
+};
