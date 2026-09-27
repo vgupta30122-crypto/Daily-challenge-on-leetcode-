@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0374-guess-number-higher-or-lower) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
