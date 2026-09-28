@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
