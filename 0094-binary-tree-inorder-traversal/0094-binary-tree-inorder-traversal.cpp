@@ -25,36 +25,71 @@
 //         vector<int> ans;
 //         inorder(root,ans);
 //         return ans;
+ 
+        
+//     }
+// };
+  // <<<<<<   m2 >>>>>>>>>>>
+
+// class Solution {
+// public:
+    
+//     vector<int> inorderTraversal(TreeNode* root){
+//         vector<int> ans;
+//         stack<TreeNode*>st;
+//         TreeNode* node = root;
+//         while(st.size()>0 || node){
+//             if(node){
+//                 st.push(node);
+//                 node = node->left;
+//             }
+//             else{
+//                 TreeNode* temp = st.top();
+//                 st.pop();
+//                 ans.push_back(temp->val);
+//                 node = temp ->right;
+//             }
+//         }
+//      return ans;
 
         
 //     }
 // };
 
 
+// <<<<<<<<  m3   >>>>>>>>>>>>>>
 class Solution {
 public:
     
-    vector<int> inorderTraversal(TreeNode* root){
-        vector<int> ans;
-        stack<TreeNode*>st;
-        TreeNode* node = root;
-        while(st.size()>0 || node){
-            if(node){
-                st.push(node);
-                node = node->left;
+    vector<int> inorderTraversal(TreeNode*root){
+         vector<int> ans;
+         TreeNode* curr = root;
+         while(curr!=NULL){
+            if(curr->left!=NULL) { // find the pred
+                TreeNode* pred = curr ->left;
+                while(pred->right!=NULL && pred->right!=curr){
+                    pred = pred->right;
+                }
+                if(pred ->right==NULL){ // link 
+                    pred->right= curr;
+                    curr= curr->left;
+                }
+                else{ // pred right == curr ; unlink
+                    pred ->right=NULL;
+                    ans.push_back(curr->val);
+                    curr= curr->right;
+                }
+            } 
+            else{   // curr->left == null
+                ans.push_back(curr->val);
+                curr= curr->right;
             }
-            else{
-                TreeNode* temp = st.top();
-                st.pop();
-                ans.push_back(temp->val);
-                node = temp ->right;
-            }
-        }
-     return ans;
-
-        
+         }
+         return ans;
+         
     }
 };
+
 
 
 
