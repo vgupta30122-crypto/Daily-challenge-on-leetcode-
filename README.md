@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0232-implement-queue-using-stacks) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 ## Binary Search
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0199-binary-tree-right-side-view) |
