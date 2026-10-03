@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0414-third-maximum-number) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
