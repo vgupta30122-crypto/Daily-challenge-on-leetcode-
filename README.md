@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
