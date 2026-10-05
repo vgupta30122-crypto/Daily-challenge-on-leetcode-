@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
