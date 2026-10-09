@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 ## Binary Search
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
