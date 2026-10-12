@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0724-find-pivot-index) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
