@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0649-dota2-senate) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
