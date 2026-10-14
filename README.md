@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0138-copy-list-with-random-pointer) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
