@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0649-dota2-senate) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
