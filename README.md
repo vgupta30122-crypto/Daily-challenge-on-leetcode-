@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1046-last-stone-weight) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
