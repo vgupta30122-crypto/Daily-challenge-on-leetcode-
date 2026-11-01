@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0326-power-of-three) |
