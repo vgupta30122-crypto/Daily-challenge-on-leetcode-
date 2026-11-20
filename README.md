@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2917-find-the-k-or-of-an-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0724-find-pivot-index) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
