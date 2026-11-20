@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1207-unique-number-of-occurrences) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0649-dota2-senate) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Tree
 |  |
 | ------- |
