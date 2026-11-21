@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
+| [1710-maximum-units-on-a-truck](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0649-dota2-senate) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 ## Tree
 |  |
 | ------- |
