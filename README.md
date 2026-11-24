@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2917-find-the-k-or-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0658-find-k-closest-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2094-finding-3-digit-even-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
