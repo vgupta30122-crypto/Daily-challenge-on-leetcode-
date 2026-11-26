@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3360-stone-removal-game](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3871-count-commas-in-range-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3360-stone-removal-game](https://github.com/vgupta30122-crypto/Daily-challenge-on-leetcode-/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
